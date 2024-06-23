@@ -20,3 +20,5 @@ $${\color{#EEBBCC}I'm \space friendly \space and \space silly!! \space lol!!!}$$
 ![emu-emu-otori](https://github.com/Otqri/Otqri/assets/143155782/753119ba-c30d-43e6-a694-739ec6d43414) 
 
 $${\color{#EEBBCC}THAT \space ALL \space BYEYE!!!}$$ 
+
+I'm an editor!~ soon I'll put my GL2 Emu here >w<
